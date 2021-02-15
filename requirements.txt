@@ -1,0 +1,13 @@
+certifi==2020.12.5
+cycler==0.10.0
+kiwisolver==1.3.1
+matplotlib==3.3.4
+mkl-fft==1.2.0
+mkl-random==1.1.1
+mkl-service==2.3.0
+numpy @ file:///tmp/build/80754af9/numpy_and_numpy_base_1603487797006/work
+Pillow==8.1.0
+pyparsing==2.4.7
+pyspark==3.0.0
+python-dateutil==2.8.1
+six @ file:///tmp/build/80754af9/six_1605205335545/work
